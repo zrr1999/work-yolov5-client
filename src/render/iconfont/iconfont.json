@@ -1,0 +1,114 @@
+{
+  "id": "1923113",
+  "name": "个人博客",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1433830",
+      "name": "scissor",
+      "font_class": "scissor",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "14341966",
+      "name": "full-screen",
+      "font_class": "full-screen",
+      "unicode": "e7bb",
+      "unicode_decimal": 59323
+    },
+    {
+      "icon_id": "14341974",
+      "name": "full-screen-cancel",
+      "font_class": "full-screen-cancel",
+      "unicode": "e7bc",
+      "unicode_decimal": 59324
+    },
+    {
+      "icon_id": "14341921",
+      "name": "check",
+      "font_class": "check",
+      "unicode": "e7b5",
+      "unicode_decimal": 59317
+    },
+    {
+      "icon_id": "14341991",
+      "name": "left-arrow",
+      "font_class": "left-arrow",
+      "unicode": "e7c2",
+      "unicode_decimal": 59330
+    },
+    {
+      "icon_id": "1115014",
+      "name": "debug",
+      "font_class": "debug",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "2418243",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "15425865",
+      "name": "run",
+      "font_class": "run",
+      "unicode": "e7db",
+      "unicode_decimal": 59355
+    },
+    {
+      "icon_id": "14341919",
+      "name": "camera",
+      "font_class": "camera",
+      "unicode": "e7b3",
+      "unicode_decimal": 59315
+    },
+    {
+      "icon_id": "14341953",
+      "name": "folder",
+      "font_class": "folder",
+      "unicode": "e7ba",
+      "unicode_decimal": 59322
+    },
+    {
+      "icon_id": "14341926",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e7b4",
+      "unicode_decimal": 59316
+    },
+    {
+      "icon_id": "14341982",
+      "name": "minimize",
+      "font_class": "minimize",
+      "unicode": "e7bf",
+      "unicode_decimal": 59327
+    },
+    {
+      "icon_id": "14341983",
+      "name": "maximize",
+      "font_class": "maximize",
+      "unicode": "e7c0",
+      "unicode_decimal": 59328
+    },
+    {
+      "icon_id": "14341987",
+      "name": "normal-size",
+      "font_class": "normal-size",
+      "unicode": "e7c1",
+      "unicode_decimal": 59329
+    },
+    {
+      "icon_id": "14342043",
+      "name": "setting",
+      "font_class": "setting",
+      "unicode": "e7c4",
+      "unicode_decimal": 59332
+    }
+  ]
+}
