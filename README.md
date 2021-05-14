@@ -10,5 +10,5 @@
 
 ## 使用许可
 
-[MIT](LICENSE) © Rongrui Zhan
+[GNU](LICENSE) © Rongrui Zhan
 
